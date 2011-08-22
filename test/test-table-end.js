@@ -15,5 +15,5 @@ module.exports = {
             assert.eql(data.id, 2); 
         });
         myFsm.execute('state');
-    },     
+    }
 }

@@ -18,7 +18,7 @@ module.exports = {
         var testState = new state();
         myFsm.on('teststate', testState);
         myFsm.execute('teststate');
-    }, 
+    }
 };
 
 
